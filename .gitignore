@@ -1,3 +1,11 @@
+# data folder
+data/*
+
+# simulation result folder
+result/*
+
+.DS_Store
+
 # History files
 .Rhistory
 .Rapp.history
